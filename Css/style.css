@@ -16,7 +16,7 @@ table{
     text-align: center;
 }
 td{
-    border: 1px solid ;
+    border: 1px solid black;
 }
 td:hover{
     background-color: rgb(243, 189, 189);
