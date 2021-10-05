@@ -15,10 +15,10 @@ table{
     font-family: 'Quicksand', sans-serif;
     text-align: center;
 }
-td{
+th{
     border: 1px solid black;
 }
-td:hover{
+th:hover{
     background-color: rgb(243, 189, 189);
     border: 2px solid #fff;
     font-size: larger;
