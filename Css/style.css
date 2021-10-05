@@ -13,10 +13,15 @@ table{
     border: 1px solid ;
     border-collapse: collapse;
     font-family: 'Quicksand', sans-serif;
+    text-align: center;
 }
-th{
+td{
     border: 1px solid ;
 }
-th:hover{
+td:hover{
     background-color: rgb(243, 189, 189);
+    border: 2px solid #fff;
+    font-size: larger;
+    color: rgb(120, 31, 204);
+    font-style: italic;
 }
